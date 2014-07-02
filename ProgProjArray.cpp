@@ -43,7 +43,7 @@ int main ()
 	cout << "price is: " << price ;
 
 	
-  cin >> junk;
+//  cin >> junk;
 //system("pause"); //this is a terrible idea use cin >> some_junk_var .... 
                    //system is specific to the OS and is a bad approach overall ... I use em all the time ... but only cause
                    //I'm a Ninja
