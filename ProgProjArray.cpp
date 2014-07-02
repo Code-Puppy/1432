@@ -40,9 +40,10 @@ int main ()
       //i=i+1; // your iteration was out side the loop therefore it was infinite
       i++; //be cooler mang
 	} 
-	cout << "price is: " << price ;
+	cout << "price is: " << price << endl;
 
 	
+  
 //  cin >> junk;
 //system("pause"); //this is a terrible idea use cin >> some_junk_var .... 
                    //system is specific to the OS and is a bad approach overall ... I use em all the time ... but only cause
